@@ -19,7 +19,7 @@ This repo contains material for Engineering simulations using ANSYS introductory
   
   # Delivery
 The course is delivered on a hands-on practical approach and memebers are encouraged to download the **ANSYS Student Software** [here](https://www.ansys.com/en-gb/academic/students/ansys-student)
-For each lesson, all the geometry files to be used in the lesson are provided in the specific lesson folder. 
+For each lesson, all the geometry files to be used are provided in the specific lesson folder. 
 
 
 # Resources
