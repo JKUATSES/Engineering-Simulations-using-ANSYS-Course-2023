@@ -42,9 +42,9 @@ In accordance with Hooke's law, the displacement of the bar is related to the fo
 
 Where
 ```
-**[K]** = Stiffness or Property Matrix
-**{U}** = Nodal displacement Vector i.e. Behavior
-**{F}** = Nodal force vector i.e. Action
+[K] = Stiffness or Property Matrix
+{U} = Nodal displacement Vector i.e. Behavior
+{F} = Nodal force vector i.e. Action
 ```
 
 
