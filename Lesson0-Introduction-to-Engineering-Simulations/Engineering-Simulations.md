@@ -34,6 +34,7 @@ In Finite Element Analysis, there is interest in:
 
 ### Example of FEA: Truss Element
 Consider an elastic bar subjected to axial forces only
-![Image of a horizontal bar](/Lesson0-Introduction-to-Engineering-Simulations/Images)
+
+![Image of a horizontal bar](.../images/Screenshot 2023-01-17 145147.png)
 
 
