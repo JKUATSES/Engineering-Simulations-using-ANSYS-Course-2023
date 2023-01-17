@@ -31,6 +31,9 @@ In Finite Element Analysis, there is interest in:
   - Results intepretation
   - Plotting
   
-  
+
+### Example of FEA: Truss Element
+Consider an elastic bar subjected to axial forces only
+
 
 
