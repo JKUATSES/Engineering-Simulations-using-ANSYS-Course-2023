@@ -1,6 +1,9 @@
 # **Engineering-Simulations-using-ANSYS-Course-2023**
 This repo contains material for Engineering simulations using ANSYS introductory course for 2023 SES Projects meetings. 
 
+![WhatsApp Image 2023-01-18 at 11 40 14 AM](https://user-images.githubusercontent.com/74782784/213125890-839c6200-4ea1-4c29-9629-0f9230179dd7.jpeg)
+
+
 # Table of Contents
 1. Introduction to Engineering Simulations
 2. Static Analysis
