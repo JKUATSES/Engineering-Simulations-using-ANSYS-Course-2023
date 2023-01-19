@@ -18,7 +18,7 @@ Max BM =
 
 ### **ANSYS Simulation**
 #### 1. Preprocessing
-1.  Material selection and Geometry creation. The geometry is of  **line body** with square cross-section of legth **200m** 
+1.  Material selection and Geometry creation. The geometry is of  **line body** with square cross-section of legth **200m** . The line body is used when the width and height are much less compared to the legnth of a body and they do not change along the entire length of the body. The goal is to reduce the number of nodes and hence reduce the simulation time. 
 
 ![Screenshot 2023-01-18 195429](https://user-images.githubusercontent.com/74782784/213245281-c75de7ce-d06c-4dd2-857c-d78c3348bb62.png)
 
@@ -26,3 +26,7 @@ Max BM =
 
 
 ![Screenshot 2023-01-18 201039](https://user-images.githubusercontent.com/74782784/213248792-ce9cc60b-db39-4b04-8428-a001ca87870f.png)
+
+#### 2. Processing
+1. Application of boundary conditions and forces. 
+
